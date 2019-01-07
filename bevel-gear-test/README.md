@@ -23,4 +23,6 @@ A test fixture for the [parametric bevel gear](/parametric-bevel-gear).
 
 **Recommended Print Settings:** 0.20mm layer height, 20% infill
 
+**Thingiverse:** https://www.thingiverse.com/thing:3336653
+
 **License**: [![CC-BY](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
