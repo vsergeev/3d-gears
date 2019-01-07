@@ -20,4 +20,6 @@ A parametric 90° bevel gear, made with the involute curve tangent line [approxi
 
 **Recommended Print Settings:** 0.20mm layer height, 20% infill
 
+**Thingiverse:** https://www.thingiverse.com/thing:3336648
+
 **License**: [![CC-BY](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
