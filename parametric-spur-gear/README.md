@@ -52,7 +52,7 @@ Aside from the actual gear related parameters, there are also parameters to cont
 * `GEAR_HEIGHT` - height of gear, user specified (default 5mm)
 * `GEAR_HOLE_DIAMETER` - hole diameter, user specified (default 5mm)
 * `GEAR_TOOTH_SCALE` - tooth scaling for process margin (default 0.925)
-* `GEAR_SLOT_WIDTH` - width of slot cut outs (default is (root diameter / 7) mm)
+* `GEAR_SLOT_WIDTH` - width of slot cut outs (default (root diameter / 7) mm)
 * `GEAR_PRESSURE_ANGLE` - pressure angle (default 20 degrees)
 * `GEAR_FILLET_RADIUS` - dedendum fillet radius (default (0.38 * gear module) mm)
 * `GEAR_TIP_FILLET_RADIUS` - teeth edge fillet on Z axis (default 0.5mm)
