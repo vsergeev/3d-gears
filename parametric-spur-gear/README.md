@@ -10,7 +10,7 @@
 </tr>
 </table>
 
-A parametric spur gear, made with the involute curve tangent line [approximation](https://nptel.ac.in/courses/116102012/40), as Fusion 360 doesn't support equation driven curves (yet). Module, number of teeth, height, hole diameter, and pressure angle are adjustable parameters.
+A parametric spur gear, made with the involute curve tangent line [approximation](https://nptel.ac.in/courses/116102012/40), as Fusion 360 doesn't support equation driven curves (yet). Module, number of teeth, height, hole diameter, and pressure angle are adjustable parameters. See the [parametric gear toy](https://github.com/vsergeev/3d-gear-toy) for a test model using these gears.
 
 **Design**: [Parametric Spur Gear v34.f3d](Parametric%20Spur%20Gear%20v34.f3d) (Fusion 360 Archive)
 
